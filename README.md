@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+
 <h3 align="left">Connect with me:</h3> <a href="https://twitter.com/emm_aguila" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/emmanuel-u-6a5971108/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 
