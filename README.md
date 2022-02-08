@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelugo" alt="emmanuelugo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/emm_aguila" target="blank"><img src="https://img.shields.io/twitter/follow/emm_aguila?logo=twitter&style=for-the-badge" alt="emm_aguila" /></a> </p> 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5191fa55-3110-45d9-8df9-492192834ef6/deploy-status)](https://app.netlify.com/sites/dairy-of-an-analyst/deploys)
 
 - 🔭 I’m currently working on **some data analytics projects**
 
