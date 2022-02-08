@@ -26,7 +26,7 @@
 - ⚡ Fun fact **I speak 2+ languages**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/emm_aguila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emm_aguila" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emmanuel-u-6a5971108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel-u-6a5971108" height="30" width="40" /></a>
 <a href="https://kaggle.com/emmanuelugochukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="emmanuelugochukwu" height="30" width="40" /></a>
