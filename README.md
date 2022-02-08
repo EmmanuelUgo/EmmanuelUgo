@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emmanuelugo&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelugo" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelugo&no-frame=true" alt="emmanuelugo" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelugo&no-frame=true&no-bg=true&theme=dark_dimmed" alt="emmanuelugo" /></a> </p>
 
 - 🔭 I’m currently working on **some data analytics projects**
 
