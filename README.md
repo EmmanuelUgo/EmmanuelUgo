@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelugo" alt="emmanuelugo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/emm_aguila" target="blank"><img src="https://img.shields.io/twitter/follow/emm_aguila?logo=twitter&style=for-the-badge" alt="emm_aguila" /></a> </p>
+<p align="left"> <a href="https://twitter.com/emm_aguila" target="blank"><img src="https://img.shields.io/twitter/follow/emm_aguila?logo=twitter&style=for-the-badge" alt="emm_aguila" /></a> </p> [![Netlify Status](https://api.netlify.com/api/v1/badges/5191fa55-3110-45d9-8df9-492192834ef6/deploy-status)](https://app.netlify.com/sites/dairy-of-an-analyst/deploys)
 
 - 🔭 I’m currently working on **some data analytics projects**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/haanuel](https://linktr.ee/haanuel)
 
-- 📝 I regularly write articles on [https://haanuel.netlify.app/](https://haanuel.netlify.app/)
+- 📝 I regularly write articles on [my personal blog site](https://dairy-of-an-analyst.netlify.app/)
 
 - 💬 Ask me about **R programming, SQL, Tableau and Data Analytics**
 
