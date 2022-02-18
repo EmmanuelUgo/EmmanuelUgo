@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Ugochukwu</h1>
+<h1 align="center">Hi 👋 I'm Emmanuel Ugochukwu</h1>
 <h3 align="center">An Engineering student and a data nerd who enjoys learning spoken languages and staying indoors</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=emmanuelugo&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelugo" /> </p>
