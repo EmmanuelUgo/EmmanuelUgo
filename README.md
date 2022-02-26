@@ -13,7 +13,7 @@
 
 - 👨‍💻 Links to all of my projects are available on [Linktree](https://linktr.ee/haanuel)
 
-- 📝 I regularly write articles on [my personal blog site](https://dairy-of-an-analyst.netlify.app/)
+- 📝 I regularly write articles on [my personal blog site](diary-of-an-analyst.netlify.app)
 
 - 💬 Ask me about **R programming, SQL, Tableau and Data Analytics**
 
