@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I speak 2+ languages**
 
--  [![Codewars Status](https://www.codewars.com/users/EmmanuelUgo/badges/small](https://www.codewars.com/users/EmmanuelUgo/badges/small)
+- <a href="https://www.codewars.com/users/EmmanuelUgo" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/EmmanuelUgo/badges/small" alt="codewars" width="40" height="40"/> </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/RStudio.svg" alt="RStudio" width="40" height="40"/> </a> <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidyverse.svg" alt="tidyverse" width="40" height="40"/> </a> <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/rmarkdown.svg" alt="Rmarkdown" width="40" height="40"/> </a> <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/shiny.svg" alt="shiny" width="40" height="40"/> </a> <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/rstudio/hex-stickers/blob/master/SVG/tidymodels.svg" alt="tidymodels" width="40" height="40"/> </a>  
